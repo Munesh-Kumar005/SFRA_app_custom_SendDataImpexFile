@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<form xmlns="http://www.demandware.com/xml/form/2008-04-19">
+    <field formid="file" label="label.input.file.SFRAFormDef" type="string" mandatory="true"/>
+    <action formid="submit" valid-form="true"/>
+   
+</form>
